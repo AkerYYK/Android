@@ -1,0 +1,9 @@
+<resources>
+    //标题
+    <string name="app_name">CustomCamera</string>
+
+    //按钮
+    <string name="video">Video</string>
+    <string name="photo">Photo</string>
+    <string name="record">Record</string>
+</resources>
